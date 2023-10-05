@@ -12,5 +12,4 @@ Hi!
 
 def hi():
   # print('Hi !')
-  return 'Hi !'
-sus
+  return 'Hi'
